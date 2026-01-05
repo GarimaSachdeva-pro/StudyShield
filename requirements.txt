@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+joblib
+scikit-learn
+shap
+langchain
+langchain-google-genai
+google-generativeai
+matplotlib
+python-dotenv
+plotly
+xgboost
